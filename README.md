@@ -67,7 +67,6 @@ The analytical methods implemented in the repository include standard statistica
 
 - This repository is script-driven and intermediate-file-based; it is not implemented as a unified workflow engine.
 - The code is intended to document and support the core bioinformatics analyses behind the translational findings of LungMate-014.
-- Execution order is partly implicit and depends on the availability of intermediate objects produced by upstream scripts.
 - Some scripts reflect manuscript-focused exploratory and figure-oriented analyses rather than a fully generalized software package.
 
 ## Context
